@@ -4,10 +4,10 @@
 
 ## 🌐 Live Demo
 
-🚀 Try the live app here:
-https://neon-groove-snake-1081739759815.asia-southeast1.run.app/
+🚀 **Play the live app here:**
+👉 https://neon-groove-snake-1081739759815.asia-southeast1.run.app/
 
-Experience the combined **Snake Game + Music Player** with neon UI directly in your browser — no setup required.
+Experience the **Neon Snake Game + Music Player** directly in your browser with no setup required.
 
 ---
 
